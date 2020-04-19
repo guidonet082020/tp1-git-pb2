@@ -26,7 +26,7 @@ public class Calculadora2020 {
  }else{
  resultado = a / b;
  } 
- System.out.println("El resultado es " + resultado.toString()+ "modif archivo"+"commit"+"cambio rama");
+ System.out.println("El resultado es " + resultado.toString()+ "modif archivo"+"commit"+"cambio rama" + "ramab");
  }
 }
 }
